@@ -1,0 +1,8 @@
+ollama
+requests
+python-dotenv
+numpy
+pandas
+scikit-learn
+fastapi
+uvicorn
